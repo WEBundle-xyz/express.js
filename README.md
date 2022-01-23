@@ -10,7 +10,7 @@
 
 [5 - Middleware POST requests ](../../tree/105efef9ad131cd3633f7243b68ac63c78748a31/)
 
-[6 - Empty ](../../tree//)
+[6 - Added 404 Page Not Found ](../../tree/cd7ca7a7ec23adb392e1fa5cdeaf8234fc2d9eba/)
 
 [7 - Empty ](../../tree//)
 
